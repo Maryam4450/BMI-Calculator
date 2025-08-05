@@ -6,7 +6,6 @@ A simple and interactive calculator built using **Streamlit** and deployed on **
 
 🔗 [Try the Calculator on Hugging Face Spaces](https://huggingface.co/spaces/Maryam42/streamlit-calculator)
 
-> Replace `your-username/streamlit-calculator` with your actual Hugging Face Space link.
 
 ---
 
